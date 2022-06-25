@@ -370,7 +370,7 @@ $uye = $vt->cek("KAYITSAY", "uyeler", "COUNT(*) id", "", array());
                             &copy; Copyrights 2021 <?=$ayar['baslik']?> Tüm haklar saklıdır.
                         </div><!-- //. left content aera -->
                         <div class="right-content-area"><!-- right content area -->
-                            Designed by <i class="ti-heart"></i> <strong> Ravertan</strong>
+                            Designed by <i class="ti-heart"></i> <strong> Ozgur_Medya</strong>
                         </div><!-- //. right content area -->
                     </div><!-- //.copyright inner wrapper -->
                 </div>
