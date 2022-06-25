@@ -1,0 +1,8 @@
+1.Bir veritabanı oluşturun ve ilgili veritabanına kurulum klasöründeki sql dosyasını atın, ardından veritabanından url kısmını kendi web site url'ninizi ekleyin.
+
+2. inc/config.php dosyasına veritabanı bilgilerinizi girin, ve çalıştırın.
+
+Admin Kullanıcı Adı: demo 
+Admin Şifresi: 80158015Ege
+
+//https://www.r10.net/profil/142233-ozgur_medya.html iyi kullanımlar dileriz :)
