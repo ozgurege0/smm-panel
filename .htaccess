@@ -1,0 +1,10 @@
+RewriteEngine on
+RewriteRule ^services/? services.php [NC,L]
+RewriteRule ^anasayfa/? index.php [NC,L]
+RewriteRule ^terms/? terms.php [NC,L]
+RewriteRule ^kayit-ol/? kayit-ol.php [NC,L]
+RewriteRule ^sifreunuttum/? sifreunuttum.php [NC,L]
+RewriteRule ^giris-yap/? giris-yap.php [NC,L]
+RewriteRule ^servis-listesi/? servis-listesi.php [NC,L]
+RewriteRule ^kullanim-sozlesmesi/? kullanim-sozlesmesi.php [NC,L]
+RewriteRule ^sss/? sss.php [NC,L]
