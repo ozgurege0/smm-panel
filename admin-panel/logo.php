@@ -220,7 +220,7 @@ $ayar2 = $vt->cek('ASSOC', 'ayarlar', '*', '', array());
 			</div>
 		</div><!-- container -->
 		<footer class="footer text-center text-sm-left">
-			&copy; 2021 <?=$ayar2['baslik']?> <span class="text-muted d-none d-sm-inline-block float-right">Ravertan <i class="mdi mdi-heart text-danger"></i> ile kodlanmıştır.</span>
+			&copy; 2022 <?=$ayar2['baslik']?> <span class="text-muted d-none d-sm-inline-block float-right">Ozgur_Medya <i class="mdi mdi-heart text-danger"></i> ile kodlanmıştır.</span>
 		</footer>
 	</div>
 	<!-- end page content -->
